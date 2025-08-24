@@ -53,7 +53,7 @@
 ### CRM в Google Sheets (данные замаскированы)
 
 ###### CRM — лист "Обращения"
-![CRM — лист "Обращения"](./screenshots/crm_requests.png)  
+![CRM — лист "Обращения"](./screenshots/crm_requests1.png)  
 
 ###### CRM — лист "Клиенты"
-![CRM — лист "Клиенты"](./screenshots/crm_clients.png)  
+![CRM — лист "Клиенты"](./screenshots/crm_clients1.png)  
